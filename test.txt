@@ -2,3 +2,4 @@ s is test slslfaj
 test file
 second modification.
 before add message
+git commit -a -m 'test message'
