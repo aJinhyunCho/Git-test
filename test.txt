@@ -4,3 +4,4 @@ second modification.
 before add message
 git commit -a -m 'test message'
 I don't like to commit
+test new
